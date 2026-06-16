@@ -1,0 +1,17 @@
+# Frontend
+exception-frontend/node_modules/
+exception-frontend/build/
+
+# Backend
+exception-backend/**/target/
+
+# IDE
+.idea/
+.vscode/
+
+# Local Config
+**/application-dev.properties
+
+# OS Files
+.DS_Store
+Thumbs.db
